@@ -1,0 +1,26 @@
+{
+  "name": "svg-node",
+  "version": "1.0.0",
+  "description": "Tiny module to create an SVG element",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/svg-node.git"
+  },
+  "keywords": [
+    "svg",
+    "node",
+    "namespace",
+    "browser",
+    "browserify"
+  ],
+  "homepage": "https://github.com/hughsk/svg-node",
+  "bugs": {
+    "url": "https://github.com/hughsk/svg-node/issues"
+  }
+}
