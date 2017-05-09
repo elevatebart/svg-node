@@ -1,1 +1,1 @@
-export function createSVGElement(string:tag, Document?:doc):Element;
+export declare function createSVGElement(name:string, doc?:Document):Element;
