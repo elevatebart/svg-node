@@ -1,6 +1,6 @@
 {
   "name": "svg-node-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tiny module to create an SVG element, with TypeScript Support",
   "main": "index.js",
   "license": "MIT",
