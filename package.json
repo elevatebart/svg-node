@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Tiny module to create an SVG element, with TypeScript Support",
   "main": "index.js",
+  "typings": "module",
   "license": "MIT",
   "author": "Bart Ledoux (ledouxb@me.com)",
   "dependencies": {},
