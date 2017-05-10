@@ -1,23 +1,26 @@
 {
-  "name": "svg-node-ts",
-  "version": "1.0.5",
-  "description": "Tiny module to create an SVG element, with TypeScript Support",
+  "name": "svg-node",
+  "version": "1.0.1",
+  "description": "Tiny module to create an SVG element",
   "main": "index.js",
-  "types": "index.d.ts",
   "license": "MIT",
-  "author": "Bart Ledoux (ledouxb@me.com)",
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/elevatebart/svg-node-ts.git"
+    "url": "git://github.com/hughsk/svg-node.git"
   },
   "keywords": [
     "svg",
     "node",
     "namespace",
     "browser",
-    "browserify",
-    "typescript"
-  ]
+    "browserify"
+  ],
+  "homepage": "https://github.com/hughsk/svg-node",
+  "bugs": {
+    "url": "https://github.com/hughsk/svg-node/issues"
+  }
 }
